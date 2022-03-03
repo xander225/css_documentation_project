@@ -1,0 +1,53 @@
+html {
+  font-family: "Open Sans", sans-serif;
+  color: #385623;
+}
+header {
+  padding-bottom: 2rem;
+  text-align: center;
+  font-size: 1.4rem;
+}
+
+header:hover {
+  font-size: 1.8rem;
+}
+
+body {
+  padding: 4rem;
+  background-color: #f4f4f4;
+}
+
+footer {
+  padding-top: 2rem;
+}
+
+section {
+  text-align: justify;
+}
+
+blockquote {
+  background-color: #ebe9e9;
+  width: 50%;
+  padding: 1.4rem;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+blockquote a {
+  font-size: 0.8em;
+}
+
+a {
+  color: #385623;
+  text-decoration: none;
+}
+
+a:hover {
+  color: cornflowerblue;
+  font-size: 0.9rem;
+}
+
+#next {
+  float: right;
+  padding-right: 3rem;
+}
